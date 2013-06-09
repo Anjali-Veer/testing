@@ -37,6 +37,6 @@ production:
   reconnect: false
   database: testing_production
   pool: 5
-  username: anjali
-  password: JackForce
+  username: root
+  password: antapict
   socket: /var/run/mysqld/mysqld.sock
